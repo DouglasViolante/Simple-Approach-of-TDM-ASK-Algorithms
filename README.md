@@ -2,6 +2,10 @@
 
 A simple approch of Time Division Multiplexation (TDM) and Amplitude Shift Keying (ASK-OOK) algoritms, developed in C++, with the objetive of keep C++ skills refined.
 
+![ASK Plot made in Python](https://i.ibb.co/Vq89G7C/ASKplot.png)
+
+![TDM PLot made in Python](https://i.ibb.co/H24ppqN/TDMplot.png)
+
 # Libraries
 
 - iostream
