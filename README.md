@@ -9,8 +9,10 @@ A simple approch of Time Division Multiplexation (TDM) and Amplitude Shift Keyin
 - algorithm
 - vector
 
-# Parameters
+# Parameters and Use
 
-The default parameters are commented in the code.
+The default parameters are for ASK, and they are commented in the code, the code also returns an one column .txt file named "Modulation_Output.txt" with values of voltage in Volts.
+
+Also TDM implementation is made only for 3 input signals.
 
 
